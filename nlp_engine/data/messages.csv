@@ -1,0 +1,45 @@
+text,emergency,category,severity
+"Bus is late again today",0,none,0
+"Power cut in my area since morning",0,none,0
+"Traffic is very slow near bus stand",0,none,0
+"Feeling tired after long work",0,none,0
+"Mobile network is not working properly",0,none,0
+"School declared holiday tomorrow",0,none,0
+"Water supply will be stopped today",0,none,0
+"Weather is cloudy but no rain",0,none,0
+"Train delayed by two hours",0,none,0
+"Road repair work causing inconvenience",0,none,0
+"Internet is slow today",0,none,0
+"Office meeting postponed",0,none,0
+"Shops are closed due to strike",0,none,0
+"Market is crowded today",0,none,0
+"Noise pollution near my house",0,none,0
+"Garbage not collected today",0,none,0
+"Water leakage in street but controlled",0,none,0
+"Electricity bill issue",0,none,0
+"Heavy rain expected today",0,none,0
+"Minor traffic jam near signal",0,none,0
+
+"Heavy rain flooded our street and people are stuck",1,flood,3
+"Water entered houses after continuous rainfall",1,flood,3
+"River water level rising dangerously",1,flood,3
+"Fire broke out near textile shop",1,fire,3
+"Fire accident in residential building",1,fire,3
+"Smoke coming out from warehouse",1,fire,2
+"Man collapsed on road and needs ambulance",1,medical,3
+"Person fainted due to heat and needs help",1,medical,2
+"Serious accident near highway, injured people",1,medical,3
+"Strong shaking felt and buildings cracked",1,earthquake,3
+"Earthquake tremors reported in city",1,earthquake,2
+"Cyclone warning issued for coastal areas",1,cyclone,2
+"Strong winds damaged houses and trees",1,cyclone,3
+"Landslide blocked ghat road after rain",1,landslide,2
+"Rocks falling on road due to landslide",1,landslide,3
+"Fire alarm triggered in shopping mall",1,fire,2
+"Ambulance required immediately for heart patient",1,medical,3
+"Flood water rising rapidly near bridge",1,flood,3
+"Storm caused power lines to fall",1,cyclone,2
+"House caught fire due to gas leak",1,fire,3
+"Fire accident near bus stand",1,fire,3
+"Bus stand shop caught fire",1,fire,3
+"Smoke seen near bus terminal",1,fire,2
